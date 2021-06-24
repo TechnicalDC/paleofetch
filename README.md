@@ -14,7 +14,7 @@ Note: this testing occured on only 1 computer, it's not a good representation on
 
 Example output:
 
-![example output](sample.png)
+![example output](term.png)
 
 Dependencies
 ------------
